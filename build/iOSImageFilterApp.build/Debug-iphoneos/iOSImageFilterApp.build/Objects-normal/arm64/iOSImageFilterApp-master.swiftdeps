@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "6d4932a76714599595d961df64cdafd2"
+build_time: [1507708915, 493288000]
+inputs:
+  "/Users/haruyaishikawa/Documents/3. AVFoundation/iOSImageFilterApp/iOSImageFilterApp/ViewController.swift": [1507708915, 0]
+  "/Users/haruyaishikawa/Documents/3. AVFoundation/iOSImageFilterApp/iOSImageFilterApp/AppDelegate.swift": [1507376369, 0]
